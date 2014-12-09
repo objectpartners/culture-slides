@@ -1,6 +1,6 @@
 ##  Personalized Tools
 
-* Letting the carpenter choose his hammer
+* Letting the carpenter choose his or her hammer
   * Both hardware and software
 * Encouraging the team to try new tools
-* Selecting collaboration tools organically within the team
+* Selecting tools organically within the team

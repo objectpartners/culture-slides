@@ -2,4 +2,4 @@
 
 Creating a positive, open culture
 
-Working to make each other better
+And working to make each other better
