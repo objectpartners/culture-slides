@@ -2,10 +2,10 @@
 ### How can organizations appeal to these developers?
 
 <!-- .element: class="fragment" -->
-Enable Productivity
+Enabling Productivity
 
 <!-- .element: class="fragment" -->
-Embrace Change
+Embracing Change
 
 <!-- .element: class="fragment" -->
-Fuel Innovation
+Fueling Innovation

@@ -5,4 +5,4 @@
 * Embrace standard protocols and well defined APIs
 * Encapsulate the data store
 * Enable a polyglot environment
-* Empower teams to make decisions
+* Empower teams to choose

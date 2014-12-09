@@ -3,4 +3,3 @@
 * Deliver results early and often
 * Gain confidence among the stakeholders
 * Understand software readiness
-* Promote QA first attitude
