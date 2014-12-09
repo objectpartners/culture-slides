@@ -1,3 +1,3 @@
 ##  Innovative Companies
 
-Require skilled developers to deliver.
+Need skilled developers to deliver.
