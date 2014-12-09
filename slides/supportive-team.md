@@ -4,4 +4,4 @@
 * Project Managers breaking down barriers to productivity
 * Senior Leaders serving the needs of the team
 * Developers delivering innovative software
-* Teams that understand everyone is QA
+* QA that strives for early/upfront testing
