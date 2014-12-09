@@ -10,4 +10,8 @@ that are great developers
 great mentors
 
 <!-- .element: class="fragment" -->
-and great people
+and great people.
+
+<br>
+<!-- .element: class="fragment" -->
+That want to help you build a **_Culture of Innovation_**.

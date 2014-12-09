@@ -1,1 +1,1 @@
-## The new generation of developers
+## Building a Culture of Innovation

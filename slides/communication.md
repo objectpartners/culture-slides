@@ -1,9 +1,9 @@
 ##  Communication
 
-* Efficient and fluid
-  * Low barriers to communication
-* Tools tightly integrated into developer workflow
-  * JIRA, GitHub, Slack, Jenkins, etc...
-* Open work areas with adequate space
-* Tools to faciliate remote work as needed
-* Common core work hours
+* Supporting efficient and fluid communication
+* Breaking through barriers to communication
+* Supporting tools that integrate into the developers' workflow
+* Providing open areas with adequate space
+* Supporting tools that facilitate remote work
+* Establishing core work hours
+* Eliminating inefficient meetings

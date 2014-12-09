@@ -1,5 +1,5 @@
 ##  Great People
 
-Positive, open culture
+Creating a positive, open culture
 
 Working to make each other better

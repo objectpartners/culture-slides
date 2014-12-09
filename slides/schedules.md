@@ -1,7 +1,7 @@
 ##  Flexible Schedules
 
-* Encourage productivity
-* Allows teams to establish common core hours
-* Work from home when needed
+* Encouraging productivity
+* Allowing teams to establish common core hours
+* Working from home when needed
   * Snowstorms, appointments, or just because
-* Collaboration tools to support remote work
+* Collaborating via tools that support remote work

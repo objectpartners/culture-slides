@@ -1,6 +1,6 @@
 ##  DevOps
 
-* Reduce barriers to delivery
-* Empower the team to deliver
-* Eliminate communication gaps
-* Build automation as documentation
+* Reducing barriers to delivery
+* Empowering the team to deliver
+* Eliminating communication gaps
+* Building automation as documentation

@@ -1,3 +1,3 @@
 ##  End Users
 
-Demands are growing faster than ever.
+Demands are growing more and more.

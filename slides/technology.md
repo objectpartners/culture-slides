@@ -1,3 +1,3 @@
 ##  Technology
 
-Is changing faster and faster.
+Is changing faster than ever.
