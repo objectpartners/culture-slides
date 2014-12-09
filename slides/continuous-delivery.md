@@ -1,5 +1,5 @@
 ##  Continuous Delivery
 
-* Delivering results early and often
-* Gaining confidence among the stakeholders
-* Understanding software readiness
+* Deliver results early and often
+* Gain confidence among the stakeholders
+* Understand software readiness

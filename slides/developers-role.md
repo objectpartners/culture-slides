@@ -1,5 +1,5 @@
 ##  Great Developers
 
-* Striving to deliver
-* Understanding stakeholders' needs
-* Working to make one another better
+* Strive to deliver
+* Understand stakeholders' needs
+* Work to make one another better
